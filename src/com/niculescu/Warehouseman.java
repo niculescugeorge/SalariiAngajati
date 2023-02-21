@@ -1,4 +1,4 @@
-package com.skillbrain;
+package com.niculescu;
 
 public class Warehouseman extends Employee{
 

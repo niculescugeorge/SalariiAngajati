@@ -1,4 +1,4 @@
-package com.skillbrain;
+package com.niculescu;
 
 public class TechnicianRisk extends Technician implements EmployeeRisk{
 

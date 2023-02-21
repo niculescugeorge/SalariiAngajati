@@ -1,4 +1,4 @@
-package com.skillbrain;
+package com.niculescu;
 
 import java.util.Scanner;
 

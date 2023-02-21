@@ -1,4 +1,4 @@
-package com.skillbrain;
+package com.niculescu;
 
 public class Seller extends Employee{
     private double fixPart = 0.2 * 150;
